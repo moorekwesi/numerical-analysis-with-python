@@ -1,0 +1,15 @@
+  n     trapezoid error  ratio   Simpson error   ratio
+   2        4.292e-01               9.440e-02        
+   4        1.039e-01    4.13       4.560e-03   20.70
+   8        2.577e-02    4.03       2.692e-04   16.94
+  16        6.430e-03    4.01       1.659e-05   16.22
+  32        1.607e-03    4.00       1.033e-06   16.06
+  64        4.016e-04    4.00       6.453e-08   16.01
+ 128        1.004e-04    4.00       4.032e-09   16.00
+
+periodic integrand e^{cos x} on [0, 2 pi]:
+  n =  2: trapezoid error = 1.74e+00
+  n =  4: trapezoid error = 3.44e-02
+  n =  8: trapezoid error = 1.25e-06
+  n = 12: trapezoid error = 6.53e-12
+  n = 16: trapezoid error = 8.88e-16

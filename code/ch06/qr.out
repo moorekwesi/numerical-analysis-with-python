@@ -1,0 +1,22 @@
+Q =
+ [[ 0.5 -0.5  0.5]
+ [ 0.5  0.5 -0.5]
+ [ 0.5  0.5  0.5]
+ [ 0.5 -0.5 -0.5]] 
+R =
+ [[ 2.  3.  2.]
+ [ 0.  5. -2.]
+ [ 0.  0.  4.]]
+Q^T Q =
+ [[1. 0. 0.]
+ [0. 1. 0.]
+ [0. 0. 1.]]
+||A - QR|| = 0.0
+QR solution: [ 1. -2.  1.]
+
+loss of orthogonality ||I - Q^T Q|| for Hilbert matrices:
+n =  4: CGS 4.9e-11   MGS 4.2e-13   Householder 9.6e-16
+n =  6: CGS 2.8e-04   MGS 1.0e-09   Householder 5.2e-16
+n =  8: CGS 1.4e+00   MGS 3.6e-07   Householder 1.5e-15
+n = 10: CGS 3.5e+00   MGS 2.5e-04   Householder 1.3e-15
+n = 12: CGS 5.5e+00   MGS 1.6e-01   Householder 1.5e-15

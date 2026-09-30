@@ -1,0 +1,5 @@
+difference between exact and FD Jacobian at x0: 4.388375529629229e-08
+start [-1.0, 0.0, 1.05]: exact J -> [0. 0. 0.] (5 its), FD J -> 5 its
+start [5.0, 5.0, 20.0]: exact J -> [ 8.48528137  8.48528137 27.        ] (7 its), FD J -> 7 its
+start [-5.0, -5.0, 20.0]: exact J -> [-8.48528137 -8.48528137 27.        ] (7 its), FD J -> 7 its
+theory: (0,0,0) and (+-8.4852813742, +-8.4852813742, 27.0)

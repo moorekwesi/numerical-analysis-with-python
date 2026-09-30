@@ -1,0 +1,8 @@
+stored value of 0.1   : 0.099999904632568
+error per 0.1 s tick  : 9.537e-08
+after   1 h: clock error = 0.0034 s, Scud travels      6 m in that time
+after   8 h: clock error = 0.0275 s, Scud travels     46 m in that time
+after  20 h: clock error = 0.0687 s, Scud travels    115 m in that time
+after  48 h: clock error = 0.1648 s, Scud travels    276 m in that time
+after  72 h: clock error = 0.2472 s, Scud travels    414 m in that time
+after 100 h: clock error = 0.3433 s, Scud travels    575 m in that time

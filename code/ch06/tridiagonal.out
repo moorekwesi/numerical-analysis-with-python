@@ -1,0 +1,4 @@
+n =    10: max error = 6.756e-03
+n =   100: max error = 8.062e-05
+n =  1000: max error = 8.208e-07
+n = 10000: max error = 8.232e-09

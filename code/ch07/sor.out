@@ -1,0 +1,11 @@
+omega = 0.80:  63 iterations, rho(T_omega) = 0.7464
+omega = 1.00:  43 iterations, rho(T_omega) = 0.6250
+omega = 1.10:  34 iterations, rho(T_omega) = 0.5377
+omega = 1.20:  23 iterations, rho(T_omega) = 0.4000
+omega = 1.24:  18 iterations, rho(T_omega) = 0.2560
+omega = 1.25:  19 iterations, rho(T_omega) = 0.2500
+omega = 1.30:  21 iterations, rho(T_omega) = 0.3000
+omega = 1.50:  36 iterations, rho(T_omega) = 0.5000
+omega = 1.80: 109 iterations, rho(T_omega) = 0.8000
+omega = 1.95: 469 iterations, rho(T_omega) = 0.9500
+optimal omega = 2/(1+sqrt(1-rho_J^2)) = 1.240408, rho = 0.240408

@@ -1,0 +1,15 @@
+step 0: error = 5.839e+00
+step 1: error = 7.309e+00
+step 2: error = 8.802e+00
+step 3: error = 1.037e+01
+step 4: error = 1.202e+01
+step 5: error = 1.376e+01
+cond(H_10) = 1.60e+13,  1/u_single = 8.39e+06
+
+n = 6, cond = 1.50e+07
+step 0: error = 1.631e-01
+step 1: error = 8.592e-03
+step 2: error = 4.657e-04
+step 3: error = 2.524e-05
+step 4: error = 1.367e-06
+step 5: error = 7.384e-08

@@ -1,0 +1,5 @@
+Newton : [1.93185165 0.51763809] 6 iterations (each needs the Jacobian)
+Broyden: [1.93185165 0.51763809] 9 iterations (Jacobian evaluated once)
+step sizes Newton : 5.0e-01 6.9e-02 1.8e-03 1.5e-06 1.1e-12 1.3e-16
+step sizes Broyden: 5.0e-01 8.6e-02 2.1e-02 1.8e-03 1.5e-04 6.4e-06 7.9e-08 3.8e-11 1.3e-16
+exact: x = sqrt(2+sqrt3) = 1.9318516525781366  y = 1/x = 0.5176380902050415

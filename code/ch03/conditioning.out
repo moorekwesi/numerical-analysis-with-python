@@ -1,0 +1,6 @@
+f                 x        kappa  perturb x by 1e-10 relatively
+sqrt(x)    2.000000   5.0000e-01  rel. change in f = 5.00e-11
+exp(x)    10.000000   1.0000e+01  rel. change in f = 1.00e-09
+x - 1      1.000001   1.0000e+06  rel. change in f = 1.00e-04
+tan(x)     1.570700   1.6306e+04  rel. change in f = 1.63e-06
+log(x)     1.000100   1.0000e+04  rel. change in f = 1.00e-06

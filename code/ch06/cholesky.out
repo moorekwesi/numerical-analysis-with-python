@@ -1,0 +1,10 @@
+L =
+ [[ 2.   0.   0. ]
+ [-0.5  2.   0. ]
+ [ 0.5  1.5  1. ]]
+||A - L L^T|| = 0.0
+numpy cholesky agrees: True
+solution x = [1. 1. 1.]
+leading principal minors of B: [ 10.  76. 346.]
+eigenvalues of B: [ 3.243409  9.36285  11.393741]
+C = [[1.0, 2.0], [2.0, 1.0]] -> matrix is not positive definite

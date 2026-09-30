@@ -1,0 +1,7 @@
+naive sum of 0.1 (10^6 times) = 100000.000001332882675
+Kahan compensated sum         = 100000.000000000000000
+math.fsum (correctly rounded) = 100000.000000000000000
+(a + b) + c = 1.0    a + (b + c) = 0.0
+float32 forward  sum = 1.64472532
+float32 backward sum = 1.64493299
+true value           = 1.64493307

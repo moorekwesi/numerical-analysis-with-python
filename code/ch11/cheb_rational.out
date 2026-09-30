@@ -1,0 +1,6 @@
+numerator   (Chebyshev coefficients): [ 1.050031 -0.600434  0.073831 -0.004068]
+denominator (Chebyshev coefficients): [1.       0.387972 0.023804]
+Taylor degree 5           : max error on [-1,1] = 1.615e-03
+Chebyshev series deg 5    : max error on [-1,1] = 4.839e-05
+Pade [3/2]                : max error on [-1,1] = 3.331e-04
+Chebyshev rational [3/2]  : max error on [-1,1] = 8.197e-06

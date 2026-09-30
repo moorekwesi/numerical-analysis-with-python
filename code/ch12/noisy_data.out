@@ -1,0 +1,4 @@
+noise in v             : 0.050 m/s
+max error, central diff: 0.866 m/s^2
+max error, LS fit      : 0.142 m/s^2
+expected noise amplification ~ noise/h = 0.50

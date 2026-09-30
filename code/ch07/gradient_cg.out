@@ -1,0 +1,4 @@
+exact solution    : [0.09090909 0.63636364]
+steepest descent  : [0.09090909 0.63636364]  (13 iterations)
+conjugate gradient: [0.09090909 0.63636364]  (2 iterations)
+kappa = 1.9387,  SD rate (kappa-1)/(kappa+1) = 0.3194

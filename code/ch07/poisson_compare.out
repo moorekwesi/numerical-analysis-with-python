@@ -1,0 +1,6 @@
+n = 400 unknowns, nonzeros in A: 1920 of 160000
+rho(T_J) = cos(pi h) = 0.98883,  rho(T_GS) = 0.97779
+Jacobi                  :  1626 iterations
+Gauss-Seidel            :   814 iterations
+SOR (omega=1.741)       :    79 iterations
+Conjugate gradient      :    36 iterations

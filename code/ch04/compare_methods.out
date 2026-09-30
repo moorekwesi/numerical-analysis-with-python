@@ -1,0 +1,6 @@
+method          its to 1e-10  order estimate
+bisection                 31 n/a (not monotone)
+regula falsi              12              1.000
+fixed point               29              1.000
+secant                     6              1.682
+Newton                     5              1.992

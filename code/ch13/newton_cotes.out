@@ -1,0 +1,14 @@
+Integral of e^x over [0, 1] = e - 1 = 1.718281828459045
+  midpoint    : 1.64872127   error = 6.96e-02
+  trapezoid   : 1.85914091   error = 1.41e-01
+  Simpson     : 1.71886115   error = 5.79e-04
+  Simpson 3/8 : 1.71854015   error = 2.58e-04
+
+Degree of precision: is x^k integrated exactly on [0, 1]?
+  k       midpoint    trapezoid      Simpson  Simpson 3/8
+  0            yes          yes          yes          yes
+  1            yes          yes          yes          yes
+  2             no           no          yes          yes
+  3             no           no          yes          yes
+  4             no           no           no           no
+  5             no           no           no           no

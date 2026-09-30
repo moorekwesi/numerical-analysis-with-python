@@ -1,0 +1,9 @@
+A^T A =
+ [[ 4. 10.]
+ [10. 30.]] 
+A^T y = [19. 66.]
+normal equations: a0, a1 = [-4.5  3.7]
+np.linalg.lstsq : a0, a1 = [-4.5  3.7]
+np.polyfit      : a1, a0 = [ 3.7 -4.5]
+residuals r = [-0.2  0.1  0.4 -0.3]   sum of squares E = 0.3000000000000004
+A^T r = [1.33226763e-15 4.44089210e-16]  (residual is orthogonal to the columns of A)

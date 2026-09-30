@@ -1,0 +1,12 @@
+S (loop)       = [ 3.  5.  7.  9. 11.]
+S (vectorised) = [ 3  5  7  9 11]
+sum with loop = 21   np.sum = 21
+halvings needed: 10  final x = 0.0009765625
+-2 is negative
+0 is zero
+3 is positive
+[1, 9, 25, 49, 81]
+n =     10   H_n = 2.928968
+n =    100   H_n = 5.187378
+n =   1000   H_n = 7.485471
+n =  10000   H_n = 9.787606

@@ -1,0 +1,17 @@
+0.1 + 0.2        = 0.30000000000000004
+0.1 + 0.2 == 0.3 : False
+exact value stored for 0.1:
+    0.1000000000000000055511151231257827021181583404541015625
+machine epsilon (loop)    = 2.220446049250313e-16
+np.finfo(float).eps       = 2.220446049250313e-16
+1 + eps/2 == 1 ?           True
+largest double            = 1.7976931348623157e+308
+smallest normalised double= 2.2250738585072014e-308
+smallest subnormal double = 5e-324 = 5e-324
+significant decimal digits: 15
+overflow : 1e308 * 10     = inf
+underflow: 1e-320 / 1e10  = 0.0
+inf - inf                 = nan
+nan == nan                : False
+hex form of 0.1           : 0x1.999999999999ap-4
+hex form of 1.0           : 0x1.0000000000000p+0

@@ -1,0 +1,9 @@
+tol = 1e-03: integral = -1.426015318981, error = 9.4e-06, 53 function evaluations
+tol = 1e-06: integral = -1.426024684569, error = 7.2e-08, 293 function evaluations
+tol = 1e-09: integral = -1.426024756346, error = 4.1e-14, 1465 function evaluations
+scipy.integrate.quad: -1.4260247563463, error = 3.8e-15 (its own estimate 1.7e-08)
+exact value         : -1.4260247563463
+composite Simpson,   65 points: error = 6.2e-04
+composite Simpson,  129 points: error = 3.9e-05
+composite Simpson,  257 points: error = 2.4e-06
+composite Simpson,  513 points: error = 1.5e-07

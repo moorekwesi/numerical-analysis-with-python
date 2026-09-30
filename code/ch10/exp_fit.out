@@ -1,0 +1,9 @@
+linearised fit : y = 87.7491 exp(-0.16364 x)
+nonlinear fit  : y = 107.8296 exp(-0.18710 x)
+   linearised: sum of squared errors = 11.1596
+   nonlinear : sum of squared errors = 6.9445
+
+Ghana: P(t) = 6.711 exp(0.02548 t),  t = years since 1960
+growth rate = 2.55% per year, doubling time = 27.2 years
+model estimate for 1990: 14.41 million
+model estimate for 2030: 39.94 million

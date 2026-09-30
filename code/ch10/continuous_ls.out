@@ -1,0 +1,16 @@
+Hilbert matrix H_3 =
+ [[1.         0.5        0.33333333]
+ [0.5        0.33333333 0.25      ]
+ [0.33333333 0.25       0.2       ]]
+right-hand side  = [1.71828183 1.         0.71828183]  ( = [e-1, 1, e-2] )
+P2(x) = 1.012991 + 0.851125 x + 0.839184 x^2
+max |e^x - P2|          = 1.498e-02
+L2 error ||e^x - P2||_2 = 5.276e-03
+Taylor 1 + x + x^2/2: max error = 2.183e-01
+
+e^x on [-1,1] in Legendre polynomials: c_k = (2k+1)/2 * <f, P_k>
+degree 2: max error = 8.163e-02
+degree 4: max error = 1.207e-03
+degree 6: max error = 8.158e-06
+degree 8: max error = 3.136e-08
+first coefficients: [1.175201 1.103638 0.357814 0.070456]

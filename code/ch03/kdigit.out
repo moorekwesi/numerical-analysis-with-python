@@ -1,0 +1,10 @@
+k=3 chop : fl(pi) = 3.14      rel.err = 5.07e-04 <= 1.0e-02
+k=3 round: fl(pi) = 3.14      rel.err = 5.07e-04 <= 5.0e-03
+k=5 chop : fl(pi) = 3.1415    rel.err = 2.95e-05 <= 1.0e-04
+k=5 round: fl(pi) = 3.1416    rel.err = 2.34e-06 <= 5.0e-05
+k=7 chop : fl(pi) = 3.141592  rel.err = 2.08e-07 <= 1.0e-06
+k=7 round: fl(pi) = 3.141593  rel.err = 1.10e-07 <= 5.0e-07
+
+exact f(4.71) = -14.263899
+3-digit chop : direct = -13.5,  nested (Horner) = -14.2
+3-digit round: direct = -13.4,  nested (Horner) = -14.3
