@@ -1,5 +1,10 @@
 # Lecture Notes for Numerical Analysis with Python
 
+[![Book: CC BY 4.0](https://img.shields.io/badge/book-CC%20BY%204.0-lightgrey.svg)](LICENSE-BOOK.md)
+[![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
+
+<img src="cover.png" alt="Cover of the book" width="260" align="right">
+
 **Third Edition (2026)** · Stephen E. Moore · Department of Mathematics, University of Cape Coast, Ghana
 
 🌐 **Author's website:** [https://moorestephen.info/](https://moorestephen.info/)
@@ -105,6 +110,15 @@ python run_all.py ch04     # only Chapter 4
 > S. E. Moore, *Lecture Notes for Numerical Analysis with Python*, 3rd ed., Department of
 > Mathematics, University of Cape Coast, Ghana, 2026.
 > Available at https://github.com/moorekwesi/numerical-analysis-with-python
+
+## Licence
+
+You are free to use, share and adapt these materials, for teaching, learning or any other
+purpose, as long as you give credit to the author.
+
+- **The book** (`Numerical_Analysis_with_Python_3rd_Edition.pdf`) is licensed under the
+  [Creative Commons Attribution 4.0 International Licence (CC BY 4.0)](LICENSE-BOOK.md).
+- **The Python programs** (`code/` and `run_all.py`) are licensed under the [MIT Licence](LICENSE).
 
 ## Author
 

@@ -9,3 +9,4 @@ figures/*
 /ch[0-9][0-9]_*.pdf
 .DS_Store
 Thumbs.db
+!/cover.png
