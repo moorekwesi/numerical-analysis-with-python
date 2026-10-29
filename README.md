@@ -1,7 +1,6 @@
 # Lecture Notes for Numerical Analysis with Python
 
-[![Book: CC BY 4.0](https://img.shields.io/badge/book-CC%20BY%204.0-lightgrey.svg)](LICENSE-BOOK.md)
-[![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 <img src="cover.png" alt="Cover of the book" width="260" align="right">
 
@@ -113,12 +112,20 @@ python run_all.py ch04     # only Chapter 4
 
 ## Licence
 
-You are free to use, share and adapt these materials, for teaching, learning or any other
-purpose, as long as you give credit to the author.
+Copyright © 2022, 2024, 2026 Stephen E. Moore.
 
-- **The book** (`Numerical_Analysis_with_Python_3rd_Edition.pdf`) is licensed under the
-  [Creative Commons Attribution 4.0 International Licence (CC BY 4.0)](LICENSE-BOOK.md).
-- **The Python programs** (`code/` and `run_all.py`) are licensed under the [MIT Licence](LICENSE).
+The book (`Numerical_Analysis_with_Python_3rd_Edition.pdf`) and the Python programs (`code/` and
+`run_all.py`) are licensed under the
+[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+The full legal text is in [LICENSE](LICENSE).
+
+**You may** download, read, run, copy and share the book and the programs in unchanged form, for
+non-commercial purposes such as study and teaching, provided you credit the author and link to
+the licence.
+
+**You may not** use the materials for commercial purposes, or distribute modified versions of
+them. You are of course welcome to change the programs on your own computer while you learn;
+the licence only restricts *sharing* adapted versions.
 
 ## Author
 
